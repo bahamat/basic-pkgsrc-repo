@@ -1,0 +1,4 @@
+<FilesMatch "(Makefile|README.md|LICENSE)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
